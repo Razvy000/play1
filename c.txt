@@ -1,4 +1,7 @@
 
+
 &beware of copyright
+
+o modif la c.txt
 
 an example
